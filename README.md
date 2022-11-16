@@ -1,6 +1,6 @@
 # 1stplace
 1stplace repo
 
-[1stplace](https://1stplace.pl)
+[1stplace.pl](https://1stplace.pl)
 
-[Pozycjonowanie z 1stplace](https://1stplace.pl/pozycjonowanie)
+[Pozycjonowanie](https://1stplace.pl/pozycjonowanie)
